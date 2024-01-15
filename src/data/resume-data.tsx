@@ -55,7 +55,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "University of Wisconsin-Madison",
-      degree: "Bachelor's Degree in Computer Science",
+      degree: "Bachelor's Degree in Computer Science GPA: 3.978/4.0",
       start: "Sept 2021",
       end: "May 2025 (expected)",
     },
