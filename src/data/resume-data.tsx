@@ -47,7 +47,7 @@ export const RESUME_DATA = {
       },
       {
         name: "X",
-        url: "https://x.com/n0regg",
+        url: "https://x.com/shinya_yan",
         icon: XIcon,
       },
     ],
