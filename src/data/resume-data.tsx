@@ -28,7 +28,7 @@ export const RESUME_DATA = {
   about:
     "CS & Math Undergraduate student @ UW-Madison",
   summary:
-    "I am widely interested in deep learning, especially the field of Generative AI (diffusion model, transformers...). Actively looking for Summer 2024 internship and research opportunities",
+    "I am a third year undergraduate student majoring in Computer Science at the University of Wisconsin-Madison. My previous intern and research experience has been about machine learning, with a focus on neural style transfer and diffusion models. I am currently pursuing research interests in Large Language Models (LLM), especially multimodal models and causality in LLM.",
   avatarUrl: "https://avatars.githubusercontent.com/u/93697869",
   personalWebsiteUrl: "https://yanxy.xyz",
   contact: {
